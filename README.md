@@ -3,7 +3,7 @@
 ## Introduce about me
 - Im Peter Ho (Aka PHP135) 😎 and im not a dev 🐧
 
-## Programming languages that im learning
+## Programming Languages That I'm Learning
 - Python 🐍
 - Java Script
 - CSS 3️⃣
