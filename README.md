@@ -1,7 +1,7 @@
 ### Hi there 👋 😁
 
 ## Introduce about me
-- I'm PhongHo (Aka PHP135) 😎 and im not a dev 🐧
+- This is PeterHo (Aka PHP135) 😎. And I'm not a Dev 🐧
 
 ## Programming Languages That I'm Learning
 - Python 🐍
