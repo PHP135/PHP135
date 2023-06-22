@@ -1,4 +1,4 @@
-### Hi there 👋 😁
+### YO WASSUP 😐
 
 ## Introduce about me
 - This is PeterHo (Aka PHP135) 😎 and I'm not a Dev 🐧
