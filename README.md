@@ -9,7 +9,7 @@
 - CSS 3️⃣
 - HTML 5️⃣
 
-THAT'S ALL :3
+THAT'S ALL 😎
 
 
 
