@@ -1,7 +1,7 @@
 ### YO WASSUP 😐
 
-# Introduce about me
-- This is PeterHo (Aka PHP135) 😎 and I'm not a Dev 🐧
+# About me
+- This is **PeterHo** (Aka PHP135) 😎 and im a **Dev** 
 
 # Programming Languages That I'm Still Learning
 - Python 🐍
