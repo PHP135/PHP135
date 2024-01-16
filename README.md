@@ -3,7 +3,7 @@
 # About me
 - **Yo Wassup**, This is **PeterHo** (Aka PHP135) 😎 and im a **Dev** 
 
-# Programming Languages That I'm Still Learning
+# Programming Languages 
 - Python 🐍
 - Java Script
 - CSS 3️⃣
