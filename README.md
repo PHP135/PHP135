@@ -2,9 +2,7 @@
 <h1 align="center">👋 Hey, I'm Peter Ho</h1>
 <h3 align="center">Student • Cybersecurity Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=00A8FF&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;I+love+building+cool+stuff.;Python+%7C+JavaScript+%7C+Web+Dev+%7C+Cybersecurity" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Python%7CJavascript%7CHTML%7CCSS;I+love+building+cool+stuff)](https://git.io/typing-svg)
 
 ---
 
