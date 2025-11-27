@@ -1,5 +1,5 @@
 <!-- Banner / Header -->
-<h1 align="center">👋 Hey, I'm Peter Ho</h1> aka (PHP135)
+<h1 align="center">👋 Hey, I'm Peter Ho aka (PHP135)</h1> 
 <h3 align="center">Student • Cybersecurity Enthusiast</h3>
 
 <p align="center">
