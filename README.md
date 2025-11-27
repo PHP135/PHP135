@@ -3,7 +3,7 @@
 <h3 align="center">Student • Cybersecurity Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Python%7CJavascript%7CHTML%7CCSS;I+love+building+cool+stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=470&lines=Python%7CJavascript%7CHTML%7CCSS;I+love+building+cool+stuff" alt="Typing SVG" /></a>
 </p>
 
 ---
