@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <h1 align="center">👋 Hey, I'm Peter Ho</h1>
-<h3 align="center">Student • Developer • Cybersecurity Enthusiast</h3>
+<h3 align="center">Student • Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=00A8FF&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;I+love+building+cool+stuff.;Python+%7C+JavaScript+%7C+Web+Dev+%7C+Cybersecurity" alt="Typing SVG" />
@@ -9,11 +9,10 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🌎 Currently studying in Canada  
-- 🎓 Future major: **Cybersecurity** (minor: AI)  
+- 🎓 Future major: **Cybersecurity**  
 - 💻 Passionate about **full-stack development**, **APIs**, and **security**  
 - 🧠 Learning path: Data Structures → API Dev → Full-Stack → Cybersecurity  
-- 🎸 I also play electric guitar, piano, gym & boxing — full combo 😎  
+- 🎸 I also play electric guitar, piano, gym & boxing  
 
 ---
 
@@ -45,19 +44,6 @@
 
 ---
 
-## 🔗 Connect With Me
-<p align="left">
-  <a href="https://github.com/PHP135"><img src="https://img.shields.io/badge/GitHub-PHP135-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
 
----
 
-## 🎉 Fun Facts
-- 🚀 I break my code more than I fix it  
-- 🔥 I learn by building, not by reading long docs  
-- 😎 Goal: become the most dangerous coder in the room  
-
----
-
-⭐ **Thanks for visiting! Check out my projects ↓**
+🐧 ** Mai Đờ Drop🎤 ↓**
