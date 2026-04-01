@@ -35,14 +35,5 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PHP135&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHP135&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-
 
 🐧 ** Mai Đờ Drop🎤 ↓**
