@@ -12,7 +12,6 @@
 - 🎓 Future major: **Cybersecurity**  
 - 💻 Passionate about **full-stack development**, **APIs**, and **security**  
 - 🧠 Learning path: Data Structures → API Dev → Full-Stack → Cybersecurity  
-- 🎸 I also play electric guitar, piano, gym & boxing  
 
 ---
 
